@@ -1,0 +1,14 @@
+flow:
+  - name: fecth_news
+    type: tool
+    return: news_list
+
+  - name: analyze_sentiment
+    type: tool
+    input: news_list
+    return: threat_info
+
+  - name: summarize_with_gemini
+    type: tool
+    input: threat_info
+    returns: summary

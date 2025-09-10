@@ -1,0 +1,15 @@
+# Core
+fastapi
+uvicorn
+
+# LLM (Gemini)
+google-generativeai
+
+# Agent orchestration
+fastmcp
+
+# Utils
+feedparser
+requests
+python-dotenv
+pydantic
