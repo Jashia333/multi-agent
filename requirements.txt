@@ -13,3 +13,7 @@ feedparser
 requests
 python-dotenv
 pydantic
+
+fastapi
+uvicorn
+
