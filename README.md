@@ -28,7 +28,7 @@ This project is a lightweight **Multi-Agent Cyber Threat Analyzer** built with:
 - Scans news for CVE patterns (e.g., `CVE-2023-XXXXX`)
 - Identifies threat keywords: `vulnerability`, `exploit`, etc.
 
-### 3. `summarize_threats_tool` (Optional)
+### 3. `summarize_threats_tool`
 - Uses Google Gemini to summarize threat reports
 
 ---
